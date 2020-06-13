@@ -40,6 +40,7 @@ function handleSubmit (event) {
         </ul>
         </div>  
     `;
+    
 
     const result = document.getElementById('result');
     result.innerHTML = layout;
